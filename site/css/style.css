@@ -40,6 +40,41 @@
     #p4{
 		background-color: #006400;
 	}
+	#Gryffindor{
+		float: right;
+	padding: 1px;
+	border: 1px solid black;
+	width: 120px;
+	text-align: center;
+	background-color: #ff96ca;
+	}
+	
+	#Hufflepuff{
+		float: right;
+	padding: 1px;
+	border: 1px solid black;
+	width: 120px;
+	text-align: center;
+	background-color: #b26666;
+	}
+	
+	#Ravenclaw{
+		float: right;
+	padding: 1px;
+	border: 1px solid black;
+	width: 120px;
+	text-align: center;
+	background-color: #f5f5dc;
+	}
+	
+	#Slytherin{
+		float: right;
+	padding: 1px;
+	border: 1px solid black;
+	width: 120px;
+	text-align: center;
+	background-color: #fff000;
+	}
 	
 	
 	
